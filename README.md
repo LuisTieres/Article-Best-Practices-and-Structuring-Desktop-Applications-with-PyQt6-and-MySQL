@@ -1,0 +1,1 @@
+# Article-Best-Practices-and-Structuring-Desktop-Applications-with-PyQt6-and-MySQL
